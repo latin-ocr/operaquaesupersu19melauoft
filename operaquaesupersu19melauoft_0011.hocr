@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu19melauoft_0011.png"; bbox 0 0 2421 3005; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 915 1115 1344 1167">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 915 1115 1344 1167">
+     <span class='ocr_line' id='line_1_1' title="bbox 915 1115 1344 1167; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 915 1115 1344 1167; x_wconf 68' lang='lat' dir='ltr'><strong>LIBRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 1254 2032 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 227 1254 2032 1329">
+     <span class='ocr_line' id='line_1_2' title="bbox 227 1254 2032 1329; baseline -0.009 0"><span class='ocrx_word' id='word_1_2' title='bbox 227 1265 885 1329; x_wconf 85' lang='lat' dir='ltr'><strong>PHILIPPI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1028 1254 2032 1319; x_wconf 76' lang='lat' dir='ltr'><strong>MELANTHONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 143 1413 2120 1479">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 143 1413 2120 1479">
+     <span class='ocr_line' id='line_1_3' title="bbox 143 1413 2120 1479; baseline -0.01 -9"><span class='ocrx_word' id='word_1_4' title='bbox 143 1432 212 1470; x_wconf 92' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 267 1426 530 1479; x_wconf 74' lang='lat' dir='ltr'>QUIBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 584 1424 965 1462; x_wconf 81' lang='lat' dir='ltr'>AUCTORES</span> <span class='ocrx_word' id='word_1_7' title='bbox 1022 1419 1428 1460; x_wconf 89' lang='lat' dir='ltr'>CLASSICOS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1483 1418 1625 1455; x_wconf 89' lang='lat' dir='ltr'><strong>AUT</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1682 1413 2120 1454; x_wconf 85' lang='lat' dir='ltr'><strong>ENARRAVIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 679 1559 1568 1603">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 679 1559 1568 1603">
+     <span class='ocr_line' id='line_1_4' title="bbox 679 1559 1568 1603; baseline -0.009 0"><span class='ocrx_word' id='word_1_10' title='bbox 679 1565 804 1602; x_wconf 91' lang='lat' dir='ltr'><strong>AUT</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 848 1560 1392 1603; x_wconf 86' lang='lat' dir='ltr'><strong>INTERPRETATUS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1438 1559 1568 1596; x_wconf 80' lang='lat' dir='ltr'><strong>EST.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 934 1700 1335 1737">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 934 1700 1335 1737">
+     <span class='ocr_line' id='line_1_5' title="bbox 934 1700 1335 1737; baseline -0.015 -7"><span class='ocrx_word' id='word_1_13' title='bbox 934 1705 1063 1737; x_wconf 70' lang='lat' dir='ltr'>(PARS</span> <span class='ocrx_word' id='word_1_14' title='bbox 1091 1700 1335 1733; x_wconf 78' lang='lat' dir='ltr'>EXTREMA.)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
